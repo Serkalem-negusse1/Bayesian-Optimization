@@ -1,6 +1,6 @@
 # Bayesian-Optimization
 Practical Bayesian Optimization of Machine Learning Algorithms
-This repository provides an implementation of the Bayesian optimization methods described in the paper "Practical Bayesian Optimization of Machine Learning Algorithms". The paper, by Jasper Snoek, Hugo Larochelle, and Ryan P. Adams, was published at NIPS in 2012.
+This repository provides an implementation of the Bayesian optimization methods described in the paper "**Practical Bayesian Optimization of Machine Learning Algorithms**". The paper, by Jasper Snoek, Hugo Larochelle, and Ryan P. Adams, was published at NIPS in 2012.
 
 
 The use of machine learning algorithms often requires careful tuning of learning and model hyperparameters. This tuning can be a "black art," requiring expert experience, rules of thumb, or brute-force search. This work views hyperparameter tuning as the optimization of an unknown black-box function and proposes an automated approach using Bayesian optimization.
